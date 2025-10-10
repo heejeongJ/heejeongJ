@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ### 🚴‍♂️ A developer who walks slowly but vigorously!
 &nbsp;
 ## 💪 Activities
-<!--
-2024.12.30 ~ : 오비고 백엔드 개발자 인턴 <br>
-2024.03.29 ~ 2024.12 : UMC 스프링 동아리원 & 스프링파트장(24.09~)<br>
+
+2024.12.30 ~ 2025.06.27 : 오비고 백엔드 개발자 인턴 <br>
+2024.03.29 ~ 2025.02 : UMC 스프링 동아리원 & 스프링파트장(24.09~25.03)<br>
 2024.08.29, 2024.08.30 : 프롬프트 해커톤 멘토 (프롬프트 엔지니어링 지도)<br>
 2024.03.30 : AWS main facilitator (Working Backward Workshop 메인 진행 & 강연)<br>
 2024.03.13, 2024.03.17 : AWS co-facilitator (AWS 클라우드 배포 서포트 in 포항공대)<br>
