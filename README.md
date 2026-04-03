@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🚴‍♂️ A developer who walks slowly but vigorously!
 &nbsp;
 ## 💪 Activities
-
+<!--
 2024.12.30 ~ 2025.06.27 : 오비고 백엔드 개발자 인턴 <br>
 2024.03.29 ~ 2025.02 : UMC 스프링 동아리원 & 스프링파트장(24.09~25.03)<br>
 2024.08.29, 2024.08.30 : 프롬프트 해커톤 멘토 (프롬프트 엔지니어링 지도)<br>
@@ -61,12 +61,13 @@ Here are some ideas to get you started:
 <!--## Skills & Study
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=#FF9900"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>-->
 &nbsp;
+<!--
 ## 💭 About me | How to reach me
 - Contact :  <heeej920@naver.com>
 - LinkedIn : www.linkedin.com/in/heejeong-joo/
-<!--
-- Dev_Blog : https://hj-tech.tistory.com/ -->
+
+- Dev_Blog : https://hj-tech.tistory.com/ 
 - 🛠 I'm still getting ready!
 
-
+-->
 <!-- ![HeeJj's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHeeJeong&show_icons=true&theme=radical) -->
